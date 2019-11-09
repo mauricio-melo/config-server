@@ -6,5 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/mauricio-melo/config-server
+          uri: https://github.com/mauricio-melo/config
           timeout: 4
